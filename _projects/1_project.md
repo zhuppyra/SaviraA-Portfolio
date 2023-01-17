@@ -2,9 +2,10 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/project1.png
+redirect: https://github.com/zhuppyra/Price-Forecasting-with-RNN
 importance: 1
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

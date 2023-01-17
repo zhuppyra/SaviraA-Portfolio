@@ -2,10 +2,10 @@
 layout: page
 title: project 3
 description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/project3.png
+redirect: https://github.com/zhuppyra/Logistic-Regression
 importance: 3
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

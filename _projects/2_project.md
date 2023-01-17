@@ -3,7 +3,7 @@ layout: page
 title: project 2
 description: a project with a background image
 img: assets/img/project2.png
-redirect: https://github.com/zhuppyra/Logistic-Regression
+redirect: https://github.com/zhuppyra/K-Nearest-Neighbor
 importance: 2
 category: academic
 ---
