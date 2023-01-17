@@ -2,9 +2,10 @@
 layout: page
 title: project 2
 description: a project with a background image
-img: assets/img/3.jpg
+img: assets/img/project2.png
+redirect: https://github.com/zhuppyra/Logistic-Regression
 importance: 2
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.
