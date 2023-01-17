@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image
+description: K-Nearest Neighbor model building using SPSS, WEKA, and RapidMiner Studio
 img: assets/img/project2.png
 redirect: https://github.com/zhuppyra/K-Nearest-Neighbor
 importance: 2

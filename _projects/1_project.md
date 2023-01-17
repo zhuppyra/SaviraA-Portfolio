@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: Price Forecasting using RNN
 img: assets/img/project1.png
 redirect: https://github.com/zhuppyra/Price-Forecasting-with-RNN
 importance: 1

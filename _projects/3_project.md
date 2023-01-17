@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
+description: Logistic Regression in R Studio
 img: assets/img/project3.png
 redirect: https://github.com/zhuppyra/Logistic-Regression
 importance: 3
